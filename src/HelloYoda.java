@@ -1,4 +1,5 @@
 public class HelloYoda {
+    //Franco Palacios 8-24
     /**
      * Returns a String containing a Yoda ASCII art and quote.
      *
@@ -14,5 +15,6 @@ public class HelloYoda {
     }
 
     public static void main(String[] args) {
+        System.out.print(yoda());
     }
 }
